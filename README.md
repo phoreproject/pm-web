@@ -1,4 +1,4 @@
-# 🌊 RawFlood - An open source OpenBazaar explorer  
+# 🌊 PM-Web - An open source Phore Marketplace explorer  
 
 <strong>Features</strong>
 
@@ -7,7 +7,7 @@
 * Ingestion Endpoint
 * Vendor Report endpoint
 * Vendor Blacklist
-* Compliance with OB's search engine protocol
+* Compliance with PM's search engine protocol
 
 ## Setup Instructions
 
